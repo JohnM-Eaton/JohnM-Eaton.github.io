@@ -1,0 +1,6 @@
+---
+layout: post
+title: Figure 7 shows the top five videos of the YouTube channel DailyWire along with each video's comment count.
+---
+
+![_config.yml]({{ site.baseurl }}/images/figure7.png)
