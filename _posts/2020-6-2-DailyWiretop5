@@ -3,4 +3,6 @@ layout: post
 title: Figure 7 shows the top five videos of the YouTube channel DailyWire along with each video's comment count.
 ---
 
+Here is a link to the [YouTube channel](https://www.youtube.com/channel/UCaeO5vkdj5xOQHp4UmIN6dw)
+
 ![_config.yml]({{ site.baseurl }}/images/figure7.png)
