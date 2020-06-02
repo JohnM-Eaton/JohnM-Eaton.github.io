@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a second year PhD student at the University of Texas at Dallas. I am also a Teaching Assistant and instructor for introductory level courses like American Government and State and Local Government.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My field of research is focused on electoral behavior utilizing the latest advances in data programming. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[john.eaton@utdallas.edu](mailto:john.eaton@utdallas.edu)
