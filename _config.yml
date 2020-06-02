@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: John M Eaton
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: PhD Student at the University of Texas at Dallas
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/54591363?s=460&u=726b47d6b46ba5b7336c75955adc43a92ac4d814&v=4.png
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: john.eaton@utdallas.edu
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: JohnM-Eaton
   instagram:
   linkedin:
   pinterest:
