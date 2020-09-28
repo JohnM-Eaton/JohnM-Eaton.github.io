@@ -5,7 +5,7 @@ title: Ten Observations from "Teaching to See"
 
 The following observations were taken from reacting to the film ["Teaching to See"](http://teachingtosee.org/film/TeachingToSee.html?gclid=EAIaIQobChMI38GMg8eH2QIVFLbACh0vIwqcEAAYASAAEgKzp_D_BwE)
 
-•	“If you love something, the work will be just fine.” This quote highlights the importance passion can have in one’s work. For instance, I had always found it humorous when chefs would say “Love” is their secret ingredient. When the pandemic started, I began cooking and baking as a hobby. Now I can definitely tell the difference in flavor for dishes where the cook “put in the love.” This intangible ingredient can really make one’s work stand out.
+•	“If you love something, the work will be just fine.” This quote highlights the importance passion can have in one’s work. For instance, I had always found it humorous when chefs would say “Love” is their secret ingredient. When the pandemic started, I began cooking and baking as a hobby. Now I can definitely tell the difference in flavor for dishes where the cook “put in the love.” This intangible ingredient can really make one’s work stand out. 
 
 •	Take the time to “stare” at your visualization. What is there? What is not there? What does it truly need?
 
