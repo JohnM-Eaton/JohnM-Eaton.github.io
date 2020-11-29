@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YouTube Comments for 2020 Presidential & Vice Presidential Debates
+title: Details/Statistics (YouTube) for 2020 Debates
 ---
 
 
